@@ -1,21 +1,4 @@
-# ps-rest-fundamentals
-
-Demo code for Pluralsight's REST Fundamentals course
-
 ## Setup Instructions
-
-### Github Codespaces
-
-1. Create a new Github account or sign into your existing one
-1. [Fork this repository](https://github.com/neuhoffm/ps-rest-fundamentals/fork)
-1. Create a Github Codespace
-   - Make sure you're on the m3-before branch (dropdown on the left below ps-rest-fundamentals)
-   - Click on Green Code Button above
-   - Click Create codespace on m3-before
-   - Installation and configuration happens automatically
-1. Switch to server folder as we'll be writing all of our code here
-1. Switch branches as necessary between modules
-1. Thunder Client (VS Code extension) is installed automatically
 
 ### Locally
 
