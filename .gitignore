@@ -27,9 +27,47 @@ Thumbs.db
 dist/
 build/
 coverage/
+out/
+tmp/
+temp/
+
+# TypeScript
+*.tsbuildinfo
+
+# React
+build/
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
 
 # Misc
 *.tgz
 .idea/
 *.sublime-workspace
-*.sublime
+*.sublime-project
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Storybook
+.storybook-out/
+out-tsc/
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Mac system files
+.AppleDouble
+.LSOverride
+
+# Windows system files
+ehthumbs.db
+Desktop.ini
